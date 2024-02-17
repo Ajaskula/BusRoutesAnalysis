@@ -1,0 +1,232 @@
+brygada,kierunek,trasa,czas
+011,Winnica,TP-WIN,04:34:00
+2,Winnica,TP-WIN,04:54:00
+012,Winnica,TP-WIN,05:04:00
+011,Winnica,TP-WIN,05:14:00
+8,Winnica,TP-WIN,05:24:00
+4,Winnica,TP-WIN,05:34:00
+2,Winnica,TP-WIN,05:44:00
+7,Winnica,TX-11WIN,05:54:00
+011,Winnica,TP-WIN,06:01:00
+8,Winnica,TP-WIN,06:07:00
+012,Winnica,TX-11WIN,06:13:00
+4,Winnica,TP-WIN,06:19:00
+6,Winnica,TP-WIN,06:25:00
+1,Winnica,TX-11WIN,06:31:00
+7,Winnica,TP-WIN,06:37:00
+2,Winnica,TX-11WIN,06:43:00
+021,Tarchomin Kościelny,TX-TAK,06:46:00
+8,Winnica,TP-WIN,06:49:00
+012,Winnica,TP-WIN,06:55:00
+022,Tarchomin Kościelny,TX-TAK,06:58:00
+3,Winnica,TP-WIN,07:00:00
+011,Winnica,TX-11WIN,07:04:00
+023,Tarchomin Kościelny,TX-TAK,07:06:00
+6,Winnica,TP-WIN,07:08:00
+1,Winnica,TP-WIN,07:12:00
+024,Tarchomin Kościelny,TX-TAK,07:14:00
+9,Winnica,TP-WIN,07:16:00
+4,Winnica,TX-11WIN,07:20:00
+021,Tarchomin Kościelny,TX-TAK,07:22:00
+2,Winnica,TP-WIN,07:24:00
+5,Winnica,TP-WIN,07:28:00
+022,Tarchomin Kościelny,TX-TAK,07:30:00
+7,Winnica,TX-11WIN,07:32:00
+012,Winnica,TP-WIN,07:36:00
+023,Tarchomin Kościelny,TX-TAK,07:38:00
+10,Winnica,TP-WIN,07:40:00
+8,Winnica,TX-11WIN,07:44:00
+024,Tarchomin Kościelny,TX-TAK,07:46:00
+011,Winnica,TP-WIN,07:48:00
+3,Winnica,TX-11WIN,07:52:00
+021,Tarchomin Kościelny,TX-TAK,07:54:00
+1,Winnica,TP-WIN,07:56:00
+9,Winnica,TP-WIN,08:00:00
+022,Tarchomin Kościelny,TX-TAK,08:02:00
+4,Winnica,TP-WIN,08:04:00
+6,Winnica,TX-11WIN,08:08:00
+023,Tarchomin Kościelny,TX-TAK,08:10:00
+5,Winnica,TP-WIN,08:12:00
+7,Winnica,TP-WIN,08:16:00
+024,Tarchomin Kościelny,TX-TAK,08:18:00
+2,Winnica,TX-11WIN,08:24:00
+8,Winnica,TP-WIN,08:28:00
+3,Winnica,TP-WIN,08:36:00
+10,Winnica,TX-11WIN,08:40:00
+4,Winnica,TP-WIN,08:48:00
+6,Winnica,TP-WIN,08:52:00
+1,Winnica,TX-11WIN,08:56:00
+7,Winnica,TP-WIN,09:01:00
+2,Winnica,TP-WIN,09:07:00
+9,Winnica,TX-11WIN,09:13:00
+3,Winnica,TP-WIN,09:19:00
+10,Winnica,TP-WIN,09:25:00
+5,Winnica,TX-11WIN,09:31:00
+6,Winnica,TP-WIN,09:37:00
+1,Winnica,TP-WIN,09:43:00
+8,Winnica,TX-11WIN,09:49:00
+2,Winnica,TP-WIN,09:55:00
+9,Winnica,TP-WIN,10:01:00
+4,Winnica,TX-11WIN,10:07:00
+10,Winnica,TP-WIN,10:13:00
+5,Winnica,TP-WIN,10:19:00
+7,Winnica,TX-11WIN,10:25:00
+1,Winnica,TP-WIN,10:31:00
+8,Winnica,TP-WIN,10:37:00
+3,Winnica,TX-11WIN,10:43:00
+9,Winnica,TP-WIN,10:49:00
+4,Winnica,TP-WIN,10:55:00
+6,Winnica,TX-11WIN,11:01:00
+5,Winnica,TP-WIN,11:07:00
+7,Winnica,TP-WIN,11:13:00
+2,Winnica,TX-11WIN,11:19:00
+8,Winnica,TP-WIN,11:25:00
+3,Winnica,TP-WIN,11:31:00
+10,Winnica,TX-11WIN,11:37:00
+4,Winnica,TP-WIN,11:43:00
+6,Winnica,TP-WIN,11:49:00
+1,Winnica,TX-11WIN,11:55:00
+7,Winnica,TP-WIN,12:01:00
+2,Winnica,TP-WIN,12:07:00
+9,Winnica,TX-11WIN,12:13:00
+3,Winnica,TP-WIN,12:19:00
+10,Winnica,TP-WIN,12:25:00
+5,Winnica,TX-11WIN,12:31:00
+6,Winnica,TP-WIN,12:37:00
+1,Winnica,TP-WIN,12:43:00
+8,Winnica,TX-11WIN,12:49:00
+2,Winnica,TP-WIN,12:55:00
+9,Winnica,TP-WIN,13:01:00
+4,Winnica,TX-11WIN,13:07:00
+10,Winnica,TP-WIN,13:13:00
+5,Winnica,TP-WIN,13:19:00
+7,Winnica,TX-11WIN,13:25:00
+1,Winnica,TP-WIN,13:31:00
+3,Winnica,TX-11WIN,13:37:00
+8,Winnica,TP-WIN,13:43:00
+6,Winnica,TX-11WIN,13:49:00
+4,Winnica,TP-WIN,13:55:00
+2,Winnica,TX-11WIN,14:01:00
+5,Winnica,TP-WIN,14:07:00
+7,Winnica,TP-WIN,14:13:00
+9,Winnica,TX-11WIN,14:19:00
+3,Winnica,TP-WIN,14:25:00
+10,Winnica,TX-11WIN,14:31:00
+6,Winnica,TP-WIN,14:37:00
+1,Winnica,TX-11WIN,14:43:00
+2,Winnica,TP-WIN,14:48:00
+8,Winnica,TX-11WIN,14:52:00
+011,Winnica,TP-WIN,14:56:00
+021,Tarchomin Kościelny,TX-TAK,14:58:00
+4,Winnica,TX-11WIN,15:00:00
+9,Winnica,TP-WIN,15:04:00
+022,Tarchomin Kościelny,TX-TAK,15:06:00
+3,Winnica,TP-WIN,15:08:00
+012,Winnica,TP-WIN,15:12:00
+023,Tarchomin Kościelny,TX-TAK,15:14:00
+10,Winnica,TP-WIN,15:16:00
+5,Winnica,TX-11WIN,15:20:00
+024,Tarchomin Kościelny,TX-TAK,15:22:00
+7,Winnica,TX-11WIN,15:24:00
+1,Winnica,TP-WIN,15:28:00
+021,Tarchomin Kościelny,TX-TAK,15:30:00
+6,Winnica,TX-11WIN,15:32:00
+8,Winnica,TP-WIN,15:36:00
+022,Tarchomin Kościelny,TX-TAK,15:38:00
+013,Winnica,TP-WIN,15:40:00
+4,Winnica,TP-WIN,15:44:00
+023,Tarchomin Kościelny,TX-TAK,15:46:00
+9,Winnica,TP-WIN,15:48:00
+2,Winnica,TX-11WIN,15:52:00
+011,Tarchomin Kościelny,TX-11TAK,15:54:00
+012,Winnica,TP-WIN,15:56:00
+10,Winnica,TP-WIN,16:00:00
+021,Tarchomin Kościelny,TX-TAK,16:02:00
+5,Winnica,TP-WIN,16:04:00
+7,Winnica,TP-WIN,16:08:00
+022,Tarchomin Kościelny,TX-TAK,16:10:00
+3,Winnica,TX-11WIN,16:12:00
+6,Winnica,TP-WIN,16:16:00
+024,Tarchomin Kościelny,TX-13TAK,16:18:00
+8,Winnica,TP-WIN,16:20:00
+013,Winnica,TP-WIN,16:24:00
+011,Tarchomin Kościelny,TX-TAK,16:26:00
+4,Winnica,TP-WIN,16:28:00
+1,Winnica,TX-11WIN,16:32:00
+021,Tarchomin Kościelny,TX-TAK,16:34:00
+2,Winnica,TP-WIN,16:36:00
+012,Winnica,TP-WIN,16:40:00
+023,Tarchomin Kościelny,TX-13TAK,16:42:00
+9,Winnica,TX-11WIN,16:44:00
+5,Winnica,TP-WIN,16:48:00
+024,Tarchomin Kościelny,TX-TAK,16:50:00
+7,Winnica,TP-WIN,16:52:00
+3,Winnica,TP-WIN,16:56:00
+011,Tarchomin Kościelny,TX-TAK,16:58:00
+6,Winnica,TP-WIN,17:00:00
+10,Winnica,TX-11WIN,17:04:00
+022,Tarchomin Kościelny,TX-13TAK,17:06:00
+013,Winnica,TP-WIN,17:08:00
+4,Winnica,TP-WIN,17:12:00
+023,Tarchomin Kościelny,TX-TAK,17:14:00
+1,Winnica,TP-WIN,17:16:00
+2,Winnica,TP-WIN,17:20:00
+024,Tarchomin Kościelny,TX-TAK,17:22:00
+8,Winnica,TX-11WIN,17:24:00
+9,Winnica,TP-WIN,17:28:00
+021,Tarchomin Kościelny,TX-13TAK,17:30:00
+5,Winnica,TP-WIN,17:32:00
+012,Winnica,TX-11WIN,17:36:00
+022,Tarchomin Kościelny,TX-TAK,17:38:00
+3,Winnica,TP-WIN,17:40:00
+6,Winnica,TP-WIN,17:44:00
+023,Tarchomin Kościelny,TX-TAK,17:46:00
+10,Winnica,TP-WIN,17:48:00
+011,Winnica,TX-13WIN,17:52:00
+024,Tarchomin Kościelny,TX-TAK,17:54:00
+7,Winnica,TX-11WIN,17:56:00
+1,Winnica,TP-WIN,18:00:00
+013,Winnica,TX-11WIN,18:04:00
+8,Winnica,TP-WIN,18:08:00
+4,Winnica,TX-11WIN,18:13:00
+012,Winnica,TP-WIN,18:19:00
+2,Winnica,TX-11WIN,18:25:00
+011,Winnica,TP-WIN,18:31:00
+7,Winnica,TP-WIN,18:37:00
+5,Winnica,TX-11WIN,18:43:00
+013,Winnica,TP-WIN,18:49:00
+8,Winnica,TP-WIN,18:55:00
+4,Winnica,TP-WIN,19:01:00
+6,Winnica,TX-11WIN,19:07:00
+2,Winnica,TP-WIN,19:13:00
+011,Winnica,TP-WIN,19:19:00
+1,Winnica,TX-11WIN,19:25:00
+5,Winnica,TP-WIN,19:31:00
+013,Winnica,TP-WIN,19:37:00
+012,Winnica,TX-11WIN,19:43:00
+4,Winnica,TP-WIN,19:49:00
+6,Winnica,TP-WIN,19:55:00
+7,Winnica,TX-11WIN,20:01:00
+1,Winnica,TP-WIN,20:07:00
+8,Winnica,TX-11WIN,20:14:00
+2,Winnica,TX-11WIN,20:24:00
+012,Winnica,TP-WIN,20:34:00
+7,Winnica,TP-WIN,20:44:00
+5,Winnica,TX-11WIN,20:54:00
+8,Winnica,TP-WIN,21:04:00
+013,Winnica,TX-11WIN,21:14:00
+1,Winnica,TX-11WIN,21:24:00
+7,Winnica,TP-WIN,21:34:00
+5,Winnica,TP-WIN,21:44:00
+2,Winnica,TX-11WIN,21:54:00
+013,Winnica,TP-WIN,22:04:00
+1,Winnica,TP-WIN,22:14:00
+8,Winnica,TX-11WIN,22:24:00
+5,Winnica,TP-WIN,22:34:00
+2,Winnica,TP-WIN,22:44:00
+7,Winnica,TX-11WIN,22:54:00
+1,Winnica,TP-WIN,23:04:00
+013,Winnica,TX-11WIN,23:14:00
+7,Winnica,TP-WIN,23:34:00
+013,Winnica,TP-WIN,23:54:00
+7,Winnica,TP-WIN,24:14:00

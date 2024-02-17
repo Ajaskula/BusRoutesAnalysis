@@ -1,0 +1,122 @@
+brygada,kierunek,trasa,czas
+6,Szkolna,TX-PIS,04:55:00
+011,PKP Piaseczno,TP-PIP,05:05:00
+8,Szkolna,TX-PIS,05:17:00
+2,Szkolna,TX-PIS,05:27:00
+3,PKP Piaseczno,TP-PIP,05:37:00
+4,Szkolna,TX-PIS,05:47:00
+9,PKP Piaseczno,TP-PIP,05:57:00
+6,Szkolna,TX-PIS,06:07:00
+011,PKP Piaseczno,TP-PIP,06:17:00
+8,Szkolna,TX-PIS,06:27:00
+1,PKP Piaseczno,TP-PIP,06:37:00
+2,Szkolna,TX-PIS,06:47:00
+3,PKP Piaseczno,TP-PIP,06:57:00
+4,Szkolna,TX-PIS,07:07:00
+5,PKP Piaseczno,TP-PIP,07:17:00
+9,Szkolna,TX-PIS,07:27:00
+6,PKP Piaseczno,TP-PIP,07:37:00
+429,Szkolna,TX-PIS,07:47:00
+7,PKP Piaseczno,TP-PIP,07:57:00
+011,Szkolna,TX-PIS,08:07:00
+8,PKP Piaseczno,TP-PIP,08:15:00
+1,PKP Piaseczno,TP-PIP,08:25:00
+2,Szkolna,TX-PIS,08:35:00
+3,PKP Piaseczno,TP-PIP,08:45:00
+4,Szkolna,TX-PIS,08:55:00
+5,PKP Piaseczno,TP-PIP,09:05:00
+9,Szkolna,TX-PIS,09:15:00
+6,PKP Piaseczno,TP-PIP,09:25:00
+429,Szkolna,TX-PIS,09:35:00
+7,PKP Piaseczno,TP-PIP,09:45:00
+8,Szkolna,TX-PIS,09:55:00
+2,PKP Piaseczno,TP-PIP,10:05:00
+1,Szkolna,TX-PIS,10:15:00
+4,PKP Piaseczno,TP-PIP,10:25:00
+3,Szkolna,TX-PIS,10:35:00
+9,PKP Piaseczno,TP-PIP,10:45:00
+5,Szkolna,TX-PIS,10:55:00
+429,PKP Piaseczno,TP-PIP,11:05:00
+6,Szkolna,TX-PIS,11:15:00
+8,PKP Piaseczno,TP-PIP,11:25:00
+7,Szkolna,TX-PIS,11:35:00
+1,PKP Piaseczno,TP-PIP,11:45:00
+2,Szkolna,TX-PIS,11:55:00
+3,PKP Piaseczno,TP-PIP,12:05:00
+4,Szkolna,TX-PIS,12:15:00
+5,PKP Piaseczno,TP-PIP,12:26:00
+9,Szkolna,TX-PIS,12:35:00
+6,PKP Piaseczno,TP-PIP,12:45:00
+429,Szkolna,TX-PIS,12:55:00
+7,PKP Piaseczno,TP-PIP,13:05:00
+8,Szkolna,TX-PIS,13:15:00
+2,PKP Piaseczno,TP-PIP,13:25:00
+1,Szkolna,TX-PIS,13:35:00
+4,PKP Piaseczno,TP-PIP,13:45:00
+3,Szkolna,TX-PIS,13:55:00
+9,PKP Piaseczno,TP-PIP,14:05:00
+5,Szkolna,TX-PIS,14:15:00
+429,PKP Piaseczno,TP-PIP,14:25:00
+6,Szkolna,TX-PIS,14:32:00
+8,PKP Piaseczno,TP-PIP,14:38:00
+012,Szkolna,TX-PIS,14:44:00
+014,PKP Piaseczno,TP-PIP,14:50:00
+7,Szkolna,TX-PIS,14:56:00
+1,PKP Piaseczno,TP-PIP,15:02:00
+2,Szkolna,TX-PIS,15:08:00
+011,PKP Piaseczno,TP-PIP,15:14:00
+3,Szkolna,TX-PIS,15:20:00
+422,PKP Piaseczno,TP-PIP,15:26:00
+4,Szkolna,TX-PIS,15:32:00
+5,PKP Piaseczno,TP-PIP,15:38:00
+013,Szkolna,TX-PIS,15:44:00
+9,PKP Piaseczno,TP-PIP,15:50:00
+6,Szkolna,TX-PIS,15:56:00
+429,PKP Piaseczno,TP-PIP,16:02:00
+012,Szkolna,TX-PIS,16:08:00
+8,PKP Piaseczno,TP-PIP,16:14:00
+7,Szkolna,TX-PIS,16:20:00
+014,PKP Piaseczno,TP-PIP,16:26:00
+2,Szkolna,TX-PIS,16:32:00
+1,PKP Piaseczno,TP-PIP,16:38:00
+3,Szkolna,TX-PIS,16:44:00
+011,PKP Piaseczno,TP-PIP,16:50:00
+4,Szkolna,TX-PIS,16:56:00
+422,PKP Piaseczno,TP-PIP,17:02:00
+013,Szkolna,TX-PIS,17:08:00
+5,PKP Piaseczno,TP-PIP,17:14:00
+6,Szkolna,TX-PIS,17:20:00
+9,PKP Piaseczno,TP-PIP,17:26:00
+012,Szkolna,TX-PIS,17:32:00
+429,PKP Piaseczno,TP-PIP,17:38:00
+7,Szkolna,TX-PIS,17:44:00
+8,PKP Piaseczno,TP-PIP,17:50:00
+2,Szkolna,TX-PIS,17:56:00
+014,PKP Piaseczno,TP-PIP,18:05:00
+3,Szkolna,TX-PIS,18:15:00
+1,PKP Piaseczno,TP-PIP,18:25:00
+4,Szkolna,TX-PIS,18:35:00
+422,PKP Piaseczno,TP-PIP,18:45:00
+6,Szkolna,TX-PIS,18:55:00
+5,PKP Piaseczno,TP-PIP,19:05:00
+9,Szkolna,TX-PIS,19:14:00
+7,PKP Piaseczno,TP-PIP,19:25:00
+429,Szkolna,TX-PIS,19:35:00
+2,PKP Piaseczno,TP-PIP,19:45:00
+3,Szkolna,TX-PIS,19:55:00
+1,PKP Piaseczno,TP-PIP,20:05:00
+4,Szkolna,TX-PIS,20:15:00
+422,PKP Piaseczno,TP-PIP,20:25:00
+6,Szkolna,TX-PIS,20:35:00
+5,PKP Piaseczno,TP-PIP,20:45:00
+9,Szkolna,TX-PIS,20:55:00
+7,PKP Piaseczno,TP-PIP,21:05:00
+2,Szkolna,TX-PIS,21:15:00
+429,PKP Piaseczno,TX-PIP,21:25:00
+3,PKP Piaseczno,TP-PIP,21:45:00
+6,PKP Piaseczno,TP-PIP,22:05:00
+5,PKP Piaseczno,TP-PIP,22:25:00
+7,PKP Piaseczno,TP-PIP,22:45:00
+3,PKP Piaseczno,TP-PIP,23:05:00
+6,PKP Piaseczno,TP-PIP,23:25:00
+5,PKP Piaseczno,TP-PIP,23:55:00

@@ -1,0 +1,210 @@
+brygada,kierunek,trasa,czas
+018,Winnica,TD-3WIN,04:18:00
+019,Winnica,TD-3WIN,04:38:00
+13,Winnica,TD-3WIN,04:56:00
+020,Winnica,TD-3WIN,05:06:00
+1,Winnica,TP-WIN,05:16:00
+035,Metro Marymont,TD-3MRM,05:22:00
+032,Tarchomin Kościelny,TD-3TAK,05:26:00
+3,Winnica,TP-WIN,05:36:00
+4,Winnica,TD-3WIN,05:42:00
+27,Metro Marymont,TX-12MRM,05:46:00
+29,Tarchomin Kościelny,TD-3TAK,05:51:00
+016,Winnica,TP-WIN,05:56:00
+033,Metro Marymont,TX-12MRM,06:04:00
+5,Winnica,TD-3WIN,06:07:00
+6,Winnica,TP-WIN,06:11:00
+21,Tarchomin Kościelny,TX-12TAK,06:17:00
+7,Winnica,TP-WIN,06:23:00
+034,Metro Marymont,TX-12MRM,06:29:00
+017,Winnica,TP-WIN,06:35:00
+23,Tarchomin Kościelny,TX-12TAK,06:42:00
+9,Winnica,TP-WIN,06:49:00
+036,Metro Marymont,TD-3MRM,06:51:00
+037,Metro Marymont,TX-12MRM,06:55:00
+018,Winnica,TP-WIN,07:01:00
+031,Tarchomin Kościelny,TX-12TAK,07:06:00
+11,Winnica,TP-WIN,07:11:00
+035,Metro Marymont,TX-12MRM,07:15:00
+019,Winnica,TP-WIN,07:19:00
+26,Tarchomin Kościelny,TX-12TAK,07:23:00
+12,Winnica,TP-WIN,07:27:00
+24,Metro Marymont,TX-12MRM,07:31:00
+13,Winnica,TP-WIN,07:35:00
+27,Tarchomin Kościelny,TX-12TAK,07:39:00
+020,Winnica,TP-WIN,07:43:00
+25,Metro Marymont,TX-12MRM,07:47:00
+14,Winnica,TP-WIN,07:51:00
+032,Tarchomin Kościelny,TX-12TAK,07:55:00
+1,Winnica,TP-WIN,07:59:00
+033,Metro Marymont,TX-12MRM,08:03:00
+2,Winnica,TP-WIN,08:07:00
+30,Tarchomin Kościelny,TX-12TAK,08:11:00
+015,Winnica,TP-WIN,08:15:00
+28,Metro Marymont,TX-12MRM,08:19:00
+3,Winnica,TP-WIN,08:23:00
+034,ZET ŻOLIBORZ,TZ-12SL4,08:27:00
+4,Winnica,TP-WIN,08:31:00
+29,Metro Marymont,TX-12MRM,08:35:00
+016,Winnica,TP-WIN,08:39:00
+036,Tarchomin Kościelny,TX-12TAK,08:43:00
+5,Winnica,TP-WIN,08:47:00
+21,Metro Marymont,TX-12MRM,08:51:00
+6,Winnica,TP-WIN,08:55:00
+037,ZET ŻOLIBORZ,TZ-12SL4,08:59:00
+7,Winnica,TP-WIN,09:03:00
+22,Metro Marymont,TX-12MRM,09:08:00
+8,Winnica,TP-WIN,09:13:00
+017,ZET ŻOLIBORZ,TZ-SLU4,09:17:00
+23,Metro Marymont,TX-12MRM,09:19:00
+9,Winnica,TP-WIN,09:25:00
+24,Metro Marymont,TX-12MRM,09:31:00
+10,Winnica,TP-WIN,09:37:00
+25,Metro Marymont,TX-12MRM,09:43:00
+11,Winnica,TP-WIN,09:49:00
+26,Metro Marymont,TX-12MRM,09:55:00
+12,Winnica,TP-WIN,10:01:00
+27,Metro Marymont,TX-12MRM,10:07:00
+13,Winnica,TP-WIN,10:13:00
+28,Metro Marymont,TX-12MRM,10:19:00
+14,Winnica,TP-WIN,10:25:00
+29,Metro Marymont,TX-12MRM,10:31:00
+1,Winnica,TP-WIN,10:37:00
+30,Metro Marymont,TX-12MRM,10:43:00
+2,Winnica,TP-WIN,10:49:00
+21,Metro Marymont,TX-12MRM,10:55:00
+3,Winnica,TP-WIN,11:01:00
+22,Metro Marymont,TX-12MRM,11:07:00
+4,Winnica,TP-WIN,11:13:00
+23,Metro Marymont,TX-12MRM,11:19:00
+5,Winnica,TP-WIN,11:25:00
+24,Metro Marymont,TX-12MRM,11:31:00
+6,Winnica,TP-WIN,11:37:00
+25,Metro Marymont,TX-12MRM,11:43:00
+7,Winnica,TP-WIN,11:49:00
+26,Metro Marymont,TX-12MRM,11:55:00
+8,Winnica,TP-WIN,12:01:00
+27,Metro Marymont,TX-12MRM,12:07:00
+9,Winnica,TP-WIN,12:13:00
+28,Metro Marymont,TX-12MRM,12:19:00
+10,Winnica,TP-WIN,12:25:00
+29,Metro Marymont,TX-12MRM,12:31:00
+11,Winnica,TP-WIN,12:37:00
+30,Metro Marymont,TX-12MRM,12:43:00
+12,Winnica,TP-WIN,12:49:00
+21,Metro Marymont,TX-12MRM,12:55:00
+13,Winnica,TP-WIN,13:01:00
+22,Metro Marymont,TX-12MRM,13:07:00
+14,Winnica,TP-WIN,13:13:00
+23,Metro Marymont,TX-12MRM,13:19:00
+1,Winnica,TP-WIN,13:25:00
+24,Metro Marymont,TX-12MRM,13:31:00
+2,Winnica,TP-WIN,13:37:00
+25,Metro Marymont,TX-12MRM,13:43:00
+3,Winnica,TP-WIN,13:49:00
+26,Metro Marymont,TX-12MRM,13:55:00
+4,Winnica,TP-WIN,14:01:00
+27,Metro Marymont,TX-12MRM,14:07:00
+5,Winnica,TP-WIN,14:13:00
+28,Metro Marymont,TX-12MRM,14:19:00
+6,Winnica,TP-WIN,14:25:00
+033,Tarchomin Kościelny,TD-3TAK,14:29:00
+29,Metro Marymont,TX-12MRM,14:31:00
+7,Winnica,TP-WIN,14:37:00
+30,Metro Marymont,TX-12MRM,14:42:00
+8,Winnica,TP-WIN,14:47:00
+21,Tarchomin Kościelny,TX-12TAK,14:51:00
+9,Winnica,TP-WIN,14:55:00
+031,Metro Marymont,TX-12MRM,14:59:00
+017,Winnica,TP-WIN,15:03:00
+22,Tarchomin Kościelny,TX-12TAK,15:07:00
+032,Metro Marymont,TD-3MRM,15:09:00
+10,Winnica,TP-WIN,15:11:00
+23,Metro Marymont,TX-12MRM,15:15:00
+018,Winnica,TP-WIN,15:19:00
+036,Tarchomin Kościelny,TD-3TAK,15:23:00
+11,Winnica,TP-WIN,15:27:00
+24,Metro Marymont,TX-12MRM,15:31:00
+12,Winnica,TP-WIN,15:35:00
+25,Tarchomin Kościelny,TX-12TAK,15:39:00
+019,Winnica,TP-WIN,15:43:00
+034,Metro Marymont,TX-12MRM,15:47:00
+13,Winnica,TP-WIN,15:51:00
+26,Tarchomin Kościelny,TX-12TAK,15:55:00
+14,Winnica,TP-WIN,15:59:00
+27,Metro Marymont,TX-12MRM,16:03:00
+020,Winnica,TP-WIN,16:07:00
+035,Tarchomin Kościelny,TX-12TAK,16:11:00
+1,Winnica,TP-WIN,16:15:00
+28,Metro Marymont,TX-12MRM,16:19:00
+2,Winnica,TP-WIN,16:23:00
+29,Tarchomin Kościelny,TX-12TAK,16:27:00
+3,Winnica,TP-WIN,16:31:00
+30,Metro Marymont,TX-12MRM,16:35:00
+4,Winnica,TP-WIN,16:39:00
+037,Tarchomin Kościelny,TX-12TAK,16:43:00
+015,Winnica,TP-WIN,16:47:00
+031,Metro Marymont,TX-12MRM,16:51:00
+5,Winnica,TP-WIN,16:55:00
+032,Tarchomin Kościelny,TX-12TAK,16:59:00
+6,Winnica,TP-WIN,17:03:00
+033,Metro Marymont,TX-12MRM,17:07:00
+016,Winnica,TP-WIN,17:11:00
+23,Tarchomin Kościelny,TX-12TAK,17:15:00
+7,Winnica,TP-WIN,17:19:00
+21,Metro Marymont,TX-12MRM,17:23:00
+8,Winnica,TP-WIN,17:27:00
+24,Tarchomin Kościelny,TX-12TAK,17:31:00
+9,Winnica,TP-WIN,17:35:00
+22,Metro Marymont,TX-12MRM,17:39:00
+017,Winnica,TP-WIN,17:43:00
+034,Tarchomin Kościelny,TX-12TAK,17:47:00
+10,Winnica,TP-WIN,17:51:00
+036,Metro Marymont,TX-12MRM,17:55:00
+018,Winnica,TP-WIN,17:59:00
+27,Tarchomin Kościelny,TX-12TAK,18:03:00
+11,Winnica,TP-WIN,18:07:00
+25,Metro Marymont,TX-12MRM,18:11:00
+12,Winnica,TP-WIN,18:15:00
+28,Tarchomin Kościelny,TX-12TAK,18:19:00
+019,Winnica,TP-WIN,18:23:00
+26,Metro Marymont,TX-12MRM,18:27:00
+13,Winnica,TP-WIN,18:31:00
+30,Tarchomin Kościelny,TX-12TAK,18:35:00
+14,Winnica,TP-WIN,18:39:00
+035,Metro Marymont,TX-12MRM,18:44:00
+1,Winnica,TP-WIN,18:49:00
+29,Metro Marymont,TX-12MRM,18:55:00
+2,Winnica,TP-WIN,19:01:00
+033,Metro Marymont,TX-12MRM,19:07:00
+037,ZET ŻOLIBORZ,TZ-12SL4,19:09:00
+4,Winnica,TP-WIN,19:13:00
+21,Metro Marymont,TX-12MRM,19:19:00
+015,Winnica,TP-WIN,19:25:00
+032,Metro Marymont,TX-12MRM,19:31:00
+5,Winnica,TP-WIN,19:37:00
+22,Metro Marymont,TX-12MRM,19:43:00
+016,Winnica,TP-WIN,19:49:00
+23,Metro Marymont,TX-12MRM,19:55:00
+7,Winnica,TP-WIN,20:01:00
+25,Metro Marymont,TX-12MRM,20:07:00
+9,Winnica,TP-WIN,20:12:00
+24,Metro Marymont,TX-12MRM,20:17:00
+017,Winnica,TP-WIN,20:23:00
+26,Metro Marymont,TX-12MRM,20:29:00
+018,Winnica,TP-WIN,20:36:00
+035,Metro Marymont,TX-12MRM,20:46:00
+11,Winnica,TP-WIN,20:56:00
+033,Metro Marymont,TX-12MRM,21:06:00
+13,Winnica,TP-WIN,21:16:00
+032,Metro Marymont,TX-12MRM,21:26:00
+1,Winnica,TP-WIN,21:36:00
+22,ZET ŻOLIBORZ,TZ-12SL4,21:46:00
+2,Winnica,TP-WIN,21:56:00
+24,Metro Marymont,TX-12MRM,22:06:00
+5,Winnica,TP-WIN,22:16:00
+26,ZET ŻOLIBORZ,TZ-12SL4,22:26:00
+7,Winnica,TP-WIN,22:36:00
+9,Winnica,TP-WIN,22:58:00
+017,Winnica,TP-WIN,23:18:00
+11,ZET ŻOLIBORZ,TZ-SLU4,23:38:00

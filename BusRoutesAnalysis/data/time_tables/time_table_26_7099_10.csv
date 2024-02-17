@@ -1,0 +1,107 @@
+brygada,kierunek,trasa,czas
+8,PKP Wola (Wolska),TO-PWL,04:45:00
+010,PKP Wola (Wolska),TO-PWL,05:05:00
+3,PKP Wola (Wolska),TO-PWL,05:25:00
+011,PKP Wola (Wolska),TO-PWL,05:45:00
+5,PKP Wola (Wolska),TO-PWL,06:05:00
+09,PKP Wola (Wolska),TO-PWL,06:21:00
+8,PKP Wola (Wolska),TO-PWL,06:34:00
+010,PKP Wola (Wolska),TO-PWL,06:47:00
+2,PKP Wola (Wolska),TO-PWL,06:58:00
+3,PKP Wola (Wolska),TO-PWL,07:06:00
+011,PKP Wola (Wolska),TO-PWL,07:14:00
+64,PKP Wola (Wolska),TO-PWL,07:22:00
+012,PKP Wola (Wolska),TO-PWL,07:30:00
+5,PKP Wola (Wolska),TO-PWL,07:38:00
+6,PKP Wola (Wolska),TO-PWL,07:46:00
+09,PKP Wola (Wolska),TO-PWL,07:54:00
+67,PKP Wola (Wolska),TO-PWL,08:02:00
+8,PKP Wola (Wolska),TO-PWL,08:10:00
+61,PKP Wola (Wolska),TO-PWL,08:18:00
+010,PKP Wola (Wolska),TO-PWL,08:26:00
+2,PKP Wola (Wolska),TO-PWL,08:34:00
+3,PKP Wola (Wolska),TO-PWL,08:42:00
+011,PKP Wola (Wolska),TO-PWL,08:50:00
+64,PKP Wola (Wolska),TO-PWL,08:59:00
+012,ZET WOLA,TZ-WIA1,09:05:00
+5,PKP Wola (Wolska),TO-PWL,09:11:00
+6,PKP Wola (Wolska),TO-PWL,09:22:00
+09,ZET WOLA,TZ-WIA1,09:28:00
+67,PKP Wola (Wolska),TO-PWL,09:34:00
+8,PKP Wola (Wolska),TO-PWL,09:46:00
+61,PKP Wola (Wolska),TO-PWL,09:58:00
+2,PKP Wola (Wolska),TO-PWL,10:10:00
+3,PKP Wola (Wolska),TO-PWL,10:22:00
+64,PKP Wola (Wolska),TO-PWL,10:34:00
+5,PKP Wola (Wolska),TO-PWL,10:46:00
+6,PKP Wola (Wolska),TO-PWL,10:58:00
+67,PKP Wola (Wolska),TO-PWL,11:10:00
+8,PKP Wola (Wolska),TO-PWL,11:22:00
+61,PKP Wola (Wolska),TO-PWL,11:34:00
+2,PKP Wola (Wolska),TO-PWL,11:46:00
+3,PKP Wola (Wolska),TO-PWL,11:58:00
+64,PKP Wola (Wolska),TO-PWL,12:10:00
+5,PKP Wola (Wolska),TO-PWL,12:22:00
+6,PKP Wola (Wolska),TO-PWL,12:34:00
+67,PKP Wola (Wolska),TO-PWL,12:46:00
+8,PKP Wola (Wolska),TO-PWL,12:58:00
+61,PKP Wola (Wolska),TO-PWL,13:10:00
+2,PKP Wola (Wolska),TO-PWL,13:22:00
+3,PKP Wola (Wolska),TO-PWL,13:34:00
+64,PKP Wola (Wolska),TO-PWL,13:46:00
+5,PKP Wola (Wolska),TO-PWL,13:58:00
+6,PKP Wola (Wolska),TO-PWL,14:10:00
+67,PKP Wola (Wolska),TO-PWL,14:23:00
+8,PKP Wola (Wolska),TO-PWL,14:35:00
+61,PKP Wola (Wolska),TO-PWL,14:47:00
+2,PKP Wola (Wolska),TO-PWL,14:58:00
+3,PKP Wola (Wolska),TO-PWL,15:06:00
+64,PKP Wola (Wolska),TO-PWL,15:14:00
+011,PKP Wola (Wolska),TO-PWL,15:22:00
+5,PKP Wola (Wolska),TO-PWL,15:30:00
+6,PKP Wola (Wolska),TO-PWL,15:38:00
+012,PKP Wola (Wolska),TO-PWL,15:46:00
+09,PKP Wola (Wolska),TO-PWL,15:54:00
+67,PKP Wola (Wolska),TO-PWL,16:02:00
+8,PKP Wola (Wolska),TO-PWL,16:10:00
+010,PKP Wola (Wolska),TO-PWL,16:18:00
+61,PKP Wola (Wolska),TO-PWL,16:26:00
+2,PKP Wola (Wolska),TO-PWL,16:34:00
+3,PKP Wola (Wolska),TO-PWL,16:42:00
+64,PKP Wola (Wolska),TO-PWL,16:50:00
+011,PKP Wola (Wolska),TO-PWL,16:58:00
+5,PKP Wola (Wolska),TO-PWL,17:06:00
+6,PKP Wola (Wolska),TO-PWL,17:14:00
+012,PKP Wola (Wolska),TO-PWL,17:22:00
+09,PKP Wola (Wolska),TO-PWL,17:30:00
+67,PKP Wola (Wolska),TO-PWL,17:38:00
+8,PKP Wola (Wolska),TO-PWL,17:46:00
+010,PKP Wola (Wolska),TO-PWL,17:54:00
+61,PKP Wola (Wolska),TO-PWL,18:02:00
+2,PKP Wola (Wolska),TO-PWL,18:11:00
+3,ZET WOLA,TZ-WIA1,18:16:00
+64,PKP Wola (Wolska),TO-PWL,18:22:00
+011,PKP Wola (Wolska),TO-PWL,18:34:00
+5,ZET WOLA,TZ-WIA1,18:40:00
+6,PKP Wola (Wolska),TO-PWL,18:46:00
+012,PKP Wola (Wolska),TO-PWL,18:58:00
+09,PKP Wola (Wolska),TO-PWL,19:10:00
+8,PKP Wola (Wolska),TO-PWL,19:22:00
+010,PKP Wola (Wolska),TO-PWL,19:34:00
+2,PKP Wola (Wolska),TO-PWL,19:46:00
+64,PKP Wola (Wolska),TO-PWL,19:58:00
+011,PKP Wola (Wolska),TO-PWL,20:09:00
+6,PKP Wola (Wolska),TO-PWL,20:25:00
+012,ZET WOLA,TZ-WIA1,20:35:00
+09,PKP Wola (Wolska),TO-PWL,20:45:00
+8,ZET WOLA,TZ-WIA1,20:55:00
+010,PKP Wola (Wolska),TO-PWL,21:05:00
+2,PKP Wola (Wolska),TO-PWL,21:25:00
+011,PKP Wola (Wolska),TO-PWL,21:45:00
+6,PKP Wola (Wolska),TO-PWL,22:05:00
+09,PKP Wola (Wolska),TO-PWL,22:25:00
+010,PKP Wola (Wolska),TO-PWL,22:45:00
+2,PKP Wola (Wolska),TO-PWL,23:05:00
+011,ZET WOLA,TZ-WIA1,23:25:00
+6,ZET WOLA,TZ-WIA1,23:45:00
+09,ZET WOLA,TZ-WIA1,23:55:00

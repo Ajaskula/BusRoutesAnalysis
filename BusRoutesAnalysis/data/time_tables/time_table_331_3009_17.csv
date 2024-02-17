@@ -1,0 +1,33 @@
+brygada,kierunek,trasa,czas
+061,Lotnisko Chopina,TP-LOT,05:38:00
+062,Lotnisko Chopina,TP-LOT,05:53:00
+05,Lotnisko Chopina,TP-LOT,06:08:00
+064,Lotnisko Chopina,TP-LOT-D,06:18:00
+063,Wyczółki,TX-WYC,06:28:00
+06,Lotnisko Chopina,TP-LOT,06:38:00
+061,Lotnisko Chopina,TP-LOT-D,06:48:00
+062,Wyczółki,TX-WYC,06:58:00
+063,Lotnisko Chopina,TP-LOT,07:08:00
+05,Lotnisko Chopina,TP-LOT-D,07:18:00
+064,Wyczółki,TX-WYC,07:28:00
+06,Lotnisko Chopina,TP-LOT,07:38:00
+062,Lotnisko Chopina,TP-LOT-D,07:48:00
+061,Wyczółki,TX-WYC,07:58:00
+063,Lotnisko Chopina,TP-LOT,08:08:00
+064,Terminal Autokarowy,TX-LOT,08:18:00
+05,Terminal Autokarowy,TX-LOT,08:28:00
+06,Terminal Autokarowy,TX-LOT,08:38:00
+061,Terminal Autokarowy,TX-LOT,08:53:00
+062,Terminal Autokarowy,TX-LOT,09:08:00
+01,Lotnisko Chopina,TP-LOT-D,14:27:00
+02,Lotnisko Chopina,TP-LOT,14:42:00
+03,Lotnisko Chopina,TP-LOT-D,14:57:00
+04,Lotnisko Chopina,TP-LOT,15:12:00
+05,Lotnisko Chopina,TP-LOT-D,15:27:00
+01,Lotnisko Chopina,TP-LOT,15:42:00
+02,Lotnisko Chopina,TP-LOT-D,15:57:00
+03,Lotnisko Chopina,TP-LOT,16:12:00
+04,Lotnisko Chopina,TP-LOT-D,16:27:00
+05,Lotnisko Chopina,TP-LOT,16:42:00
+01,Lotnisko Chopina,TP-LOT-D,16:57:00
+02,Lotnisko Chopina,TP-LOT,17:12:00
