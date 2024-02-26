@@ -13,5 +13,3 @@ This project was developed as part of a university project at the University of 
 ## Showcase
 For examples of usage, please refer to the `showcase.ipynb` file.
 
----
-Feel free to contribute and provide feedback!
